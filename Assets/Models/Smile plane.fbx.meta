@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: fe2e52412285e3c4fba1058c5b8f5e86
+timeCreated: 1484713081
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0      011
+    100002: 10     011
+    100004: 10     012
+    100006: 11     011
+    100008: 11     012
+    100010: 16     011.16     013
+    100012: 20     013
+    100014: 20     014
+    100016: 26     014
+    100018: 28     011
+    100020: 3      011
+    100022: 32     011
+    100024: 32     012
+    100026: 33     011
+    100028: 33     012
+    100030: 34     011
+    100032: 34     012
+    100034: 35     011
+    100036: 35     012
+    100038: 4      011
+    100040: 4      012
+    100042: 5      011
+    100044: 6      011
+    100046: 8      011
+    100048: 8      012
+    100050: 9      011
+    100052: 9      012
+    100054: ACU_001
+    100056: body_mesh
+    100058: body_mesh.00
+    100060: Box001
+    100062: Box002
+    100064: Box003
+    100066: Box004
+    100068: Box005
+    100070: Center Con
+    100072: Circle032
+    100074: Circle31
+    100076: Dash Cover001
+    100078: Gauges_002
+    100080: Rear Winds001
+    100082: //RootNode
+    100084: Sphere001
+    100086: Sphere002
+    100088: Spring001
+    100090: Spring003
+    100092: Steering 001
+    100094: Steering C
+    100096: Steering W
+    100098: Steering W001
+    100100: Torus004
+    100102: Torus006
+    400000: 0      011
+    400002: 10     011
+    400004: 10     012
+    400006: 11     011
+    400008: 11     012
+    400010: 16     011.16     013
+    400012: 20     013
+    400014: 20     014
+    400016: 26     014
+    400018: 28     011
+    400020: 3      011
+    400022: 32     011
+    400024: 32     012
+    400026: 33     011
+    400028: 33     012
+    400030: 34     011
+    400032: 34     012
+    400034: 35     011
+    400036: 35     012
+    400038: 4      011
+    400040: 4      012
+    400042: 5      011
+    400044: 6      011
+    400046: 8      011
+    400048: 8      012
+    400050: 9      011
+    400052: 9      012
+    400054: ACU_001
+    400056: body_mesh
+    400058: body_mesh.00
+    400060: Box001
+    400062: Box002
+    400064: Box003
+    400066: Box004
+    400068: Box005
+    400070: Center Con
+    400072: Circle032
+    400074: Circle31
+    400076: Dash Cover001
+    400078: Gauges_002
+    400080: Rear Winds001
+    400082: //RootNode
+    400084: Sphere001
+    400086: Sphere002
+    400088: Spring001
+    400090: Spring003
+    400092: Steering 001
+    400094: Steering C
+    400096: Steering W
+    400098: Steering W001
+    400100: Torus004
+    400102: Torus006
+    2300000: 0      011
+    2300002: 10     011
+    2300004: 10     012
+    2300006: 11     011
+    2300008: 11     012
+    2300010: 16     011.16     013
+    2300012: 20     013
+    2300014: 20     014
+    2300016: 28     011
+    2300018: 3      011
+    2300020: 32     011
+    2300022: 32     012
+    2300024: 33     011
+    2300026: 33     012
+    2300028: 34     011
+    2300030: 34     012
+    2300032: 35     011
+    2300034: 35     012
+    2300036: 4      011
+    2300038: 4      012
+    2300040: 5      011
+    2300042: 6      011
+    2300044: 8      011
+    2300046: 8      012
+    2300048: 9      011
+    2300050: 9      012
+    2300052: body_mesh
+    2300054: body_mesh.00
+    2300056: Sphere001
+    2300058: Sphere002
+    2300060: Torus004
+    2300062: Torus006
+    3300000: 0      011
+    3300002: 10     011
+    3300004: 10     012
+    3300006: 11     011
+    3300008: 11     012
+    3300010: 16     011.16     013
+    3300012: 20     013
+    3300014: 20     014
+    3300016: 28     011
+    3300018: 3      011
+    3300020: 32     011
+    3300022: 32     012
+    3300024: 33     011
+    3300026: 33     012
+    3300028: 34     011
+    3300030: 34     012
+    3300032: 35     011
+    3300034: 35     012
+    3300036: 4      011
+    3300038: 4      012
+    3300040: 5      011
+    3300042: 6      011
+    3300044: 8      011
+    3300046: 8      012
+    3300048: 9      011
+    3300050: 9      012
+    3300052: body_mesh
+    3300054: body_mesh.00
+    3300056: Sphere001
+    3300058: Sphere002
+    3300060: Torus004
+    3300062: Torus006
+    4300000: 32     012
+    4300002: 35     012
+    4300004: 34     012
+    4300006: 33     012
+    4300008: 35     011
+    4300010: 34     011
+    4300012: 33     011
+    4300014: 32     011
+    4300016: Sphere002
+    4300018: Torus006
+    4300020: 20     014
+    4300022: 20     013
+    4300024: Torus004
+    4300026: Sphere001
+    4300028: 8      012
+    4300030: 11     012
+    4300032: 10     012
+    4300034: 9      012
+    4300036: 4      012
+    4300038: 11     011
+    4300040: 10     011
+    4300042: 9      011
+    4300044: 8      011
+    4300046: 16     011.16     013
+    4300048: 28     011
+    4300050: 6      011
+    4300052: 5      011
+    4300054: 4      011
+    4300056: 3      011
+    4300058: 0      011
+    4300060: body_mesh.00
+    4300062: body_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
