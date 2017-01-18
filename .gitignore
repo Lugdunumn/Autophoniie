@@ -35,5 +35,5 @@ ehthumbs.db
 Thumbs.db
 
 # Builds
-*.apk
+#*.apk
 *.unitypackage
