@@ -16,6 +16,7 @@ public class MainUI : MonoBehaviour {
 
 		Button musicButton = musicToggleButton.GetComponent<Button> ();
 		musicButton.onClick.AddListener (toggleMusic);
+
 	}
 	
 	// Update is called once per frame
@@ -37,4 +38,5 @@ public class MainUI : MonoBehaviour {
 			musicOff = true;
 		}
 	}
+		
 }
